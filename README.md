@@ -1,10 +1,10 @@
-# Data Analyst (Data Scientist in view)
-
-## Technical Skills: Python | SQL(MySQL) | Excel | Microsoft Power BI
+# Data Analyst
 
 ## Summary
 
-Eniifeoluwa is a self-motivated, self-taught data analyst with over a year of coursework and project experience in data analytics. His passion for using data to change lives and grow businesses' profit margins has motivated him to acquire domain knowledge of Mathematics for Data Science. He is currently pursuing a career change in the field of data science and machine learning. 
+Eniifeoluwa is a self-motivated data analyst with over a year of hands-on experience in data analytics. His passion for using data to change lives and grow businesses' profit margins has motivated him to build on in-demand skills from Data Cleaning, Statistical Data Analysis, Regression Analysis, Predictive Modeling, Advanced Web Scraping, Database Design, Data Visualization, and hands-on knowledge of Machine Learning and Deep Learning. 
+
+### Technical Skills: Python | SQL(MySQL) | Excel | Microsoft Power BI
 
 ## Education
 
