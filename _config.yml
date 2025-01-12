@@ -1,13 +1,5 @@
 title: Oke (Samuel) Eniifeoluwa
-logo: /assests/img/headshot_circle.png
-
-navigation:
-  - title: "Home"
-    url: "/"
-  - title: "About"
-    url: "/about/"
-  - title: "Contact"
-    url: "/contact/"
+logo: _MG_0313.jpg
 
 show_downloads: False
 theme: jekyll-theme-minimal
