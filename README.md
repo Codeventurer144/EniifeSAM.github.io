@@ -1,3 +1,5 @@
+![](_MG_0313.jpg)
+
 # Data Analyst
 
 ## Summary
