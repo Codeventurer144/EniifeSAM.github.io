@@ -1,5 +1,8 @@
 title: Oke (Samuel) Eniifeoluwa
 headshot: _MG_0313.jpg
+<div class="gallery">
+  <img src="database_diagram.png" alt="Project 1">
+</div>
 
 show_downloads: False
 theme: jekyll-theme-minimal
