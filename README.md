@@ -14,9 +14,11 @@ B.S., History and Strategic Studies | The University of Lagos at Nigeria (Januar
 
 ## Work Experience
 
-Data Analyst Intern @ NeuralROw (December 2024 - Present)
+Data Analyst Intern @ NeuralRow (December 2024 - Present)
 - Currently Working on a Machine Learning Model for a Client Retail-Store
 
 ## Projects
+
+![](database_diagram.png)
 
 In this project, I used Microsoft Excel, DrawSQL, MySQL Workbench, Power Query Editor, and Microsoft Power BI to normalize spreadsheet data, design a database, generate SQL `CREATE` statements, join and analyze tables, and visualize patterns and insights from the data respectively. I also provided recommendations from the final analysis at the end of this project.
