@@ -19,6 +19,4 @@ Data Analyst Intern @ NeuralROw (December 2024 - Present)
 
 ## Projects
 
-![](pizzaBoxes.png)
-
 In this project, I used Microsoft Excel, DrawSQL, MySQL Workbench, Power Query Editor, and Microsoft Power BI to normalize spreadsheet data, design a database, generate SQL `CREATE` statements, join and analyze tables, and visualize patterns and insights from the data respectively. I also provided recommendations from the final analysis at the end of this project.
